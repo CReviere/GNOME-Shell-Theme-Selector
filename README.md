@@ -3,6 +3,8 @@
 This extension was developed using GNOME 3.30.2. The extension *should* work for 
 versions going back to 3.10, but testing still needs to be performed.
 
+![The menu](https://github.com/CReviere/GNOME-Shell-Theme-Selector/blob/master/screenshot.png)
+
 ## About
 
 This extension adds an entry to the status popup menu that allows the user 
