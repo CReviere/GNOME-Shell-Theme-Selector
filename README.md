@@ -1,7 +1,7 @@
 # GNOME Shell Theme Selector
 
 This extension was developed using GNOME 3.30.2. The extension *should* work for 
-versions going back to 3.19, but testing still needs to be performed.
+versions going back to 3.10, but testing still needs to be performed.
 
 ## About
 
